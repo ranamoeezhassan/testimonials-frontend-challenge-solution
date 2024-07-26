@@ -1,1 +1,0 @@
-# testimonials-frontend-challenge-solution
